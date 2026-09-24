@@ -42,9 +42,6 @@ VHDL implementation of a 1-bit Full Adder built entirely from NAND gates, design
 
 ## Getting Started
 
-### Prerequisites
-
-- [Xilinx ISE Design Suite](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive-ise.html) 
 
 ### Simulating in Xilinx ISE
 
