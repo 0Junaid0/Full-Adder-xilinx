@@ -1,4 +1,4 @@
-# Full Adder using NAND Gates — Xilinx ISE
+# Full Adder using NAND Gates, XOR-Gate, OR-Gate, AND-Gates — Xilinx ISE
 
 VHDL implementation of a 1-bit Full Adder built entirely from NAND gates, designed and simulated in Xilinx ISE. The project demonstrates the universal-gate property of NAND by structurally composing AND, OR, NOR, and XOR gates from NAND primitives, then combining them (via a Half Adder stage) into a complete Full Adder.
 
